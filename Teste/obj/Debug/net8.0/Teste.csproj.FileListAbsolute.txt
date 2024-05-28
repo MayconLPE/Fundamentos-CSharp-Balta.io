@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Teste\obj\Debug\net8.0\ref\Teste.dll
