@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\windows\Desktop\DEV\Fundamentos-CSharp-Balta.io\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
